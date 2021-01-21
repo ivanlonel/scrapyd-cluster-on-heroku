@@ -1,6 +1,7 @@
-pip>=19.1
-#Twisted==18.9.0
-scrapy
+pip>=20.3.3
+scrapy>=2.4.1
 scrapyd>=1.2.1
-scrapy-redis
+botocore>=1.19.58
 logparser>=0.8.2
+itemadapter>=0.2.0
+cloudscraper>=1.2.52
